@@ -1,0 +1,12 @@
+build
+**__pycache__**
+project.egg-info
+scrapyd/logs
+scrapyd/out
+*.egg
+dist/
+**logs**
+*.pid
+**.db**
+env/
+.envrc

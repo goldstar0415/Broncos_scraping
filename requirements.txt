@@ -1,0 +1,22 @@
+scrapy<1.5
+sqlalchemy<1.2
+psycopg2<2.8
+geoalchemy2<0.5
+python-scrapyd-api<2.1
+scrapyd<1.3
+scrapyd-client<1.2
+pymongo<3.6
+pytz==2017.2
+scrapy_splash<0.8
+selenium<3.6
+python-anticaptcha==0.0.7
+Pillow<4.3
+pika==0.11
+
+# flask<0.13
+# flask-apscheduler<1.8
+
+# facebook-sdk<2.1
+# google-api-python-client<1.7
+# -e git+https://github.com/LevPasha/Instagram-API-python.git#egg=InstagramAPI
+
